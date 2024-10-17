@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm CJ Ogbogu</h1>
 <h3 align="center">A junior full stack developer, on a programming journey!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cnj-fsdev&label=Profile%20views&color=0e75b6&style=flat" alt="cnj-fsdev" /> </p>
+<img src="https://media.tenor.com/l26AwFVRG9MAAAAM/ffxiv-ff14.gif" alt="cnj-fsdev" /
+<p align="right"> > </p>
 
 - 🔭 I’m currently working on **TBA**
 
