@@ -5,7 +5,7 @@
 <img src="https://media.tenor.com/l26AwFVRG9MAAAAM/ffxiv-ff14.gif" alt="cnj-fsdev" /
 <p align="right"> </p>
 
-- 🔭 I’m currently working on **TBA**
+- 🔭 I’m currently working on my Python skills and Python tool's, mastering the usage of data structures and why I have chosen to implement that spercific data structure into my work/projects.
 
 - 🌱 I’m currently learning **Frameworks, courses**
 
