@@ -7,21 +7,19 @@
 
 - 🔭 I’m currently working on my Python skills and Python tool's, mastering the usage of data structures and why I have chosen to implement that spercific data structure into my work/projects.
 
-- 🌱 I’m currently learning **Frameworks, courses**
+- 🌱 I’m currently learning Frameworks for desktop applications, such as tkinter and PyQT5. I am also exploring the worl of IOT's* and working on a few projects to eventually showcase on my portfolio.
 
-- 👯 I’m looking to collaborate on **TBA**
+- 👯 I’m looking to collaborate on small - medium sized projects over a core time span of 2-5 months. I am eager to consistntelty gain experience and learn something new, with amazing team work skills i sweet social cocept and a fiery passion to program and code.
 
-- 🤝 I’m looking for help with **TBA**
+- 🤝 I’m looking for a mentor to help guide me and inspire me untill I ave enough expierence to call myself seniour software develpoer.
 
-- 👨‍💻 All of my projects are available at [TBA](TBA)
+- 👨‍💻 All of my projects are available on my GitHub account but i will be showcasing big ideas & projects that wont me directly on my Github Account, this will be previewed on my portfolio website which is [TBA](TBA)
 
-- 📝 I regularly write articles on [TBA](TBA)
+- 📝 I regularly write articles on my experience and comprehension of being a software developer. check my repository to see various documented articles to keep up to date with me and my projects.
 
 - 💬 Ask me about **Python, Desktop Applications, IOT devices**
 
 - 📫 How to reach me **Dual-Disk.Studios@proton.me**
-
-- 📄 Know about my experiences [TBA](TBA)
 
 - ⚡ Fun fact **The first “computer bug” was an actual bug A moth to be exact. In 1947, a team of computer scientists and engineers at Harvard noticed that their computer wasn’t functioning properly. They decided to take a look at the computer’s hardware and discovered a moth trapped inside.**
 
