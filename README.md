@@ -1,4 +1,4 @@
-## Hi 👋, I'm CJ Ogbogu
+## Hi 👋, I'm CJ
 
 
 <h1 align="center">A Junior Full stack Developer, on a programming journey!</h1>
