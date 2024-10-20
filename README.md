@@ -1,5 +1,3 @@
-## Hi 👋, I'm CJ
-
 
 <h1 align="center">A Junior Full stack Developer, on a programming journey!</h1>
 <img src="https://media.tenor.com/l26AwFVRG9MAAAAM/ffxiv-ff14.gif" alt="cnj-fsdev" /
