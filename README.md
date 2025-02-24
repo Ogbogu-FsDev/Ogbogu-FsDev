@@ -23,6 +23,6 @@
 
 - 💬 Ask me about **Python, Desktop Applications, IOT devices**
 
-- 📫 How to reach me **Dual-Disk.Studios@proton.me**
+- 📫 How to reach me [TBA](TBA)
 
 - ⚡ Fun fact **The first “computer bug” was an actual bug A moth to be exact. In 1947, a team of computer scientists and engineers at Harvard noticed that their computer wasn’t functioning properly. They decided to take a look at the computer’s hardware and discovered a moth trapped inside.**
