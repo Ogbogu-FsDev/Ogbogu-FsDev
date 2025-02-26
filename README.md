@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for a mentor to help guide me and inspire me until I have enough experience to call myself senior software developer.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cnj-fsdev&show_icons=true&locale=en&layout=compact" alt="cnj-fsdev" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cnj-fsdev&show_icons=true&locale=en&layout=compact" alt="cnj-fsdev" /
 
 - 👨‍💻 All of my projects are available on my GitHub account but I will be showcasing big ideas & projects that wont me directly on my Github Account, this will be previewed on my portfolio website which is [TBA](TBA)
 
