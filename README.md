@@ -13,6 +13,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogbogu-fsdev&show_icons=true&locale=en&layout=compact" alt="ogbogu-fsdev" />
 
-- 📫 How to reach me [TBA](TBA)
+- 📫 How to reach me: message-ogbogu-fsdev@outlook.com
 
 - ⚡ Fun fact **The first “computer bug” was an actual bug A moth to be exact. In 1947, a team of computer scientists and engineers at Harvard noticed that their computer wasn’t functioning properly. They decided to take a look at the computer’s hardware and discovered a moth trapped inside.**
