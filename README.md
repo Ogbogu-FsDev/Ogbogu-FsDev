@@ -1,16 +1,52 @@
+# 👋 Hi, I’m **C Ogbogu**
 
-<h1 align="center">A Junior Software Engineer, on a programming journey!</h1>
+### 🚀 *Python & Automation Developer | IoT & Robotics Enthusiast | Exploring Secure, Smart Systems*
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmodB0KyI7LsMskShiJJO_k_K9x16Ix-BUdA&s" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
+## 🧰 **Languages & Tools**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![MicroPython](https://img.shields.io/badge/-MicroPython-000000?style=flat&logo=python)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- 🔭 I am actively refining my Javascript and Python programming expertise, with a focus on mastering data structures and making informed decisions on their implementation to optimize the performance and scalability of my projects.
+---
 
-- In addition to enhancing my proficiency in Javascript and Python as well as C#, Java, I am actively exploring emerging technologies such as artificial intelligence and robotics. I am particularly interested in the convergence of AI with biotechnology and advanced sensors, known as "Living Intelligence," which enables systems to sense, learn, adapt, and evolve. 
+## 💡 **About Me**
 
-- 🌱 Whilst continuously expanding my skill set as a full-stack software engineer, mastering both frontend and backend technologies to build scalable, high-performance applications. On the frontend, I am honing my expertise in JavaScript and TypeScript, leveraging modern frameworks like React.js, Next.js, and Angular to create dynamic user interfaces. On the backend, I am working with Node.js, Python (Flask, Django, FastAPI), and C# (.NET), developing robust APIs and integrating SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Firebase) databases. Additionally, I am diving into cloud computing with AWS, Docker, and Kubernetes to optimize deployment and scalability. Beyond traditional web development, I am exploring AI-powered applications, IoT integration using Python (MicroPython, ESP32), and DevOps practices like CI/CD pipelines to streamline software delivery. By staying at the forefront of these technologies, I am committed to building innovative and efficient software solutions.
+- 🧑‍💻 I’m a Junior Developer building **smart systems** that combine **Python**, **IoT**, and **Robotics**.
+- 🤖 Currently working on a **Humanoid Robot** and sensor-based automation using Raspberry Pi and MicroPython.
+- 🛡️ Interested in **Cybersecurity basics**, automation security, and secure coding practices.
+- ☁️ Learning cloud basics (AWS) and Docker to deploy and scale smart applications.
+- 📜 **Certified:** Python for Cybersecurity | Python for Data Science (IBM) | Google AI Essentials | NCFE Level 3 in Coding Practices.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogbogu-fsdev&show_icons=true&locale=en&layout=compact" alt="ogbogu-fsdev" />
+---
 
-- ⚡ Fun fact **The first “computer bug” was an actual bug A moth to be exact. In 1947, a team of computer scientists and engineers at Harvard noticed that their computer wasn’t functioning properly. They decided to take a look at the computer’s hardware and discovered a moth trapped inside.**
+## 📂 **Pinned Projects**
+
+- ⚙️ **[MotionSensor-RaspberryPICO-IOT](#)** — Motion sensor system with Raspberry Pi Pico & MicroPython.
+- 🐍 **Python Automation Scripts** — Small Python tools to automate tasks (coming soon!).
+- 🔒 **Python Cybersecurity Demos** — Practical scripts from my cybersecurity learning (coming soon!).
+- 🤖 **Humanoid Robot** — My main robotics project (coming soon!).
+
+*(Tip: Click my pinned repositories below to explore!)*
+
+---
+
+## 📫 **Let’s Connect!**
+
+- 🗂️ [Check my Portfolio](#) — (####)
+- 💼 [LinkedIn](#) — https://linkedin.com/in/-786gvghcc892aa
+
+---
+
+> *“Building smarter, safer systems — one script at a time.”*
+
+---
+
+### 🔄 *Always learning. Always building.*
