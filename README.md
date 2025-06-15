@@ -40,7 +40,6 @@
 
 ## 📫 **Let’s Connect!**
 
-- 🗂️ [Check my Portfolio](#) — (####)
 - 💼 [LinkedIn](#) — https://linkedin.com/in/-786gvghcc892aa
 
 ---
