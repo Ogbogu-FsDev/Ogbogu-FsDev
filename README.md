@@ -40,7 +40,6 @@
 
 ## 📫 **Let’s Connect!**
 
-- 💼 [LinkedIn](#) — https://linkedin.com/in/-786gvghcc892aa
 
 ---
 
