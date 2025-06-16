@@ -30,9 +30,9 @@
 ## 📂 **Pinned Projects**
 
 - ⚙️ **[MicroControllers-IOT](https://github.com/Ogbogu-FsDev/MicroControllers-IoT)** — Motion sensor system with Raspberry Pi Pico & MicroPython.
-- 🐍 **[Python-Automation-Scripts](#)** — Small Python tools to automate tasks (coming soon!).
-- 🔒 **[Python-Cybersecurity-Demos](#)** — Practical scripts from my cybersecurity learning (coming soon!).
-- 🤖 **[Humanoid-Robot](#)** — My main robotics project (coming soon!).
+- 🐍 **[Python-Automation-Scripts](https://github.com/Ogbogu-FsDev/Python-Automation-Scripts)** — Small Python tools to automate tasks (coming soon!).
+- 🔒 **[Python-Cybersecurity-Demos](https://github.com/Ogbogu-FsDev/Python-Cybersecurity-Demos)** — Practical scripts from my cybersecurity learning (coming soon!).
+- 🤖 **[Humanoid-Robot](https://github.com/Ogbogu-FsDev/Humanoid-Robot)** — My main robotics project (coming soon!).
 
 *(Tip: Click my pinned repositories below to explore!)*
 
