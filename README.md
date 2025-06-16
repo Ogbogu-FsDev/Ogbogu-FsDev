@@ -30,9 +30,9 @@
 ## 📂 **Pinned Projects**
 
 - ⚙️ **[MotionSensor-RaspberryPICO-IOT](#)** — Motion sensor system with Raspberry Pi Pico & MicroPython.
-- 🐍 **Python Automation Scripts** — Small Python tools to automate tasks (coming soon!).
-- 🔒 **Python Cybersecurity Demos** — Practical scripts from my cybersecurity learning (coming soon!).
-- 🤖 **Humanoid Robot** — My main robotics project (coming soon!).
+- 🐍 **[Python-Automation-Scripts](#)** — Small Python tools to automate tasks (coming soon!).
+- 🔒 **[Python-Cybersecurity-Demos](#)** — Practical scripts from my cybersecurity learning (coming soon!).
+- 🤖 **[Humanoid-Robot](#)** — My main robotics project (coming soon!).
 
 *(Tip: Click my pinned repositories below to explore!)*
 
