@@ -34,13 +34,6 @@
 - 🔒 **[Python-Cybersecurity-Demos](https://github.com/Ogbogu-FsDev/Python-Cybersecurity-Demos)** — Practical scripts from my cybersecurity learning.
 - 🤖 **[Humanoid-Robot](https://github.com/Ogbogu-FsDev/Humanoid-Robot)** — My main robotics project (coming soon!).
 
-*(Tip: Click my pinned repositories below to explore!)*
-
----
-
-## 📫 **Let’s Connect!**
-
-
 ---
 
 > *“Building smarter, safer systems — one script at a time.”*
