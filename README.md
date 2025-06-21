@@ -1,5 +1,3 @@
-# 👋 Hi, I’m **C Ogbogu**
-
 ### 🚀 *Python & Automation Developer | IoT & Robotics Enthusiast | Exploring Secure, Smart Systems*
 
 ---
