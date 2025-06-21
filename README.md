@@ -1,8 +1,8 @@
-### 🚀 *Python & Automation Developer | IoT & Robotics Enthusiast | Exploring Secure, Smart Systems*
+###  *Python & Automation Developer | IoT & Robotics Enthusiast | Exploring Secure, Smart Systems*
 
 ---
 
-## 🧰 **Languages & Tools**
+## **Languages & Tools**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/-MicroPython-000000?style=flat&logo=python)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
